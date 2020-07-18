@@ -8,11 +8,12 @@
 <img src="https://badgen.net/badge/express/proficient*/green?icon=https://icongr.am/devicon/express-original.svg">
 <img src="https://badgen.net/badge/mongodb/proficient*/green?icon=https://icongr.am/devicon/mongodb-original.svg">
 <img src="https://badgen.net/badge/HTML/expert*/blue?icon=https://icongr.am/devicon/html5-original.svg">
-<img src="https://badgen.net/badge/linux/proficient*/blue?icon=https://icongr.am/devicon/linux-original.svg">
-<img src="https://badgen.net/badge/git/proficient/blue?icon=git">
+<img src="https://badgen.net/badge/linux/proficient*/green?icon=https://icongr.am/devicon/linux-original.svg">
+<img src="https://badgen.net/badge/git/proficient/green?icon=https://icongr.am/devicon/git-original.svg">
 <img src="https://badgen.net/badge/ionic/expert/green?icon=https://icongr.am/devicon/ionic-original.svg">
-<img src="https://badgen.net/badge/angular/proficient/blue?icon=https://icongr.am/devicon/angularjs-original.svg">
+<img src="https://badgen.net/badge/angular/proficient/green?icon=https://icongr.am/devicon/angularjs-original.svg">
 <img src="https://badgen.net/badge/docker/novice/yellow?icon=https://icongr.am/devicon/docker-original.svg">
+<img src="https://badgen.net/badge/vagrant/novice/yellow?icon=https://icongr.am/devicon/vagrant-original.svg">
 
 > `*` Pluralsight certificate, see on my [stackoverflow cv](https://stackoverflow.com/story/oluis)
 #### Contact 📞
