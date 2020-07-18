@@ -14,7 +14,7 @@
 <img src="https://badgen.net/badge/angular/proficient/blue?icon=https://icongr.am/devicon/angularjs-original.svg">
 <img src="https://badgen.net/badge/docker/novice/yellow?icon=https://icongr.am/devicon/docker-original.svg">
 
-> `*` Pluralsight certificate, see on my [stackoverflow](https://stackoverflow.com/users/11709593/luis-oliveira)
+> `*` Pluralsight certificate, see on my [stackoverflow cv](https://stackoverflow.com/story/oluis)
 #### Contact 📞
 <a href="https://stackoverflow.com/users/11709593/luis-oliveira">
   <img src="https://image.flaticon.com/icons/svg/2111/2111628.svg" width="32px">
