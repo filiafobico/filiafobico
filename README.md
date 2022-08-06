@@ -4,17 +4,17 @@
 [![Linkedin: oluis](https://img.shields.io/badge/-ooluis-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ooluis)](https://www.linkedin.com/in/ooluis/)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C227%20hrs%2048%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-239%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 39 Contributions in the Year 2022
+> 🏆 41 Contributions in the Year 2022
  > 
-> 📦 56.5 kB Used in GitHub's Storage 
+> 📦 56.6 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -25,22 +25,22 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    36 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.56% 
-🌆 Daytime    67 commits     ████████░░░░░░░░░░░░░░░░░   34.54% 
-🌃 Evening    90 commits     ███████████░░░░░░░░░░░░░░   46.39% 
-🌙 Night      1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.52%
+🌞 Morning    36 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.37% 
+🌆 Daytime    67 commits     ████████░░░░░░░░░░░░░░░░░   34.18% 
+🌃 Evening    92 commits     ███████████░░░░░░░░░░░░░░   46.94% 
+🌙 Night      1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.51%
 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday       59 commits     ███████░░░░░░░░░░░░░░░░░░   30.41% 
-Tuesday      17 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.76% 
-Wednesday    19 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.79% 
-Thursday     13 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.7% 
-Friday       12 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.19% 
-Saturday     45 commits     █████░░░░░░░░░░░░░░░░░░░░   23.2% 
-Sunday       29 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.95%
+Monday       59 commits     ███████░░░░░░░░░░░░░░░░░░   30.1% 
+Tuesday      17 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.67% 
+Wednesday    19 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.69% 
+Thursday     13 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.63% 
+Friday       12 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.12% 
+Saturday     47 commits     ██████░░░░░░░░░░░░░░░░░░░   23.98% 
+Sunday       29 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.8%
 
 ```
 
@@ -82,5 +82,5 @@ PHP                      3 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/filiafobico/filiafobico/master/charts/bar_graph.png) 
 
 
- Last Updated on 06/08/2022 21:43:52 UTC
+ Last Updated on 06/08/2022 22:05:19 UTC
 <!--END_SECTION:waka-->
