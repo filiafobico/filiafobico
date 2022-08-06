@@ -38,4 +38,10 @@
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api/?username=filiafobico&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 <!--START_SECTION:waka-->
+
+```text
+TypeScript        22 hrs 59 mins  ████████████████▒░░░░░░░░   65.86 %
+Other             4 hrs 10 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.95 %
+```
+
 <!--END_SECTION:waka-->
