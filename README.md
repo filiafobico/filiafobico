@@ -4,7 +4,7 @@
 [![Linkedin: oluis](https://img.shields.io/badge/-ooluis-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ooluis)](https://www.linkedin.com/in/ooluis/)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C289%20hrs%204%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-884%20hrs%207%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-239%20Thousand%20lines%20of%20code-blue)
 
@@ -65,5 +65,5 @@ PHP                      3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 22/08/2022 18:53:59 UTC
+ Last Updated on 23/08/2022 18:56:31 UTC
 <!--END_SECTION:waka-->
