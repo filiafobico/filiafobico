@@ -4,7 +4,7 @@
 [![Linkedin: oluis](https://img.shields.io/badge/-ooluis-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ooluis)](https://www.linkedin.com/in/ooluis/)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C743%20hrs%2055%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C748%20hrs%2058%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-240%20Thousand%20lines%20of%20code-blue)
 
@@ -37,13 +37,16 @@ Sunday       15 commits     ██████░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               3 hrs 8 mins        ███████████████░░░░░░░░░░   62.09% 
+Other                    1 hr 8 mins         █████░░░░░░░░░░░░░░░░░░░░   22.6% 
+JavaScript               46 mins             ███░░░░░░░░░░░░░░░░░░░░░░   15.3% 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.02%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  5 hrs 3 mins        █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    5 hrs 3 mins        █████████████████████████   100.0%
 
 ```
 
@@ -60,5 +63,5 @@ PHP                      3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 17/01/2023 18:47:59 UTC
+ Last Updated on 18/01/2023 18:47:17 UTC
 <!--END_SECTION:waka-->
