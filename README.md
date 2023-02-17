@@ -4,9 +4,9 @@
 [![Linkedin: oluis](https://img.shields.io/badge/-ooluis-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ooluis)](https://www.linkedin.com/in/ooluis/)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C844%20hrs%209%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C847%20hrs%2015%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-240%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-301%20Thousand%20lines%20of%20code-blue)
 
 **I'm an Early 🐤** 
 
@@ -37,17 +37,17 @@ Sunday          15 commits       ██████░░░░░░░░░�
 ⌚︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-TypeScript               13 hrs 38 mins      █████████████████░░░░░░░░   69.97 % 
-Other                    1 hr 47 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.21 % 
-JavaScript               1 hr 15 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
-JSON                     1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.48 % 
-Protocol Buffer          1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   05.24 % 
+TypeScript               12 hrs 59 mins      █████████████████░░░░░░░░   68.69 % 
+JavaScript               1 hr 47 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.51 % 
+Other                    1 hr 22 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   07.29 % 
+JSON                     1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.63 % 
+Protocol Buffer          1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   05.40 % 
 
 🔥 Editors: 
-VS Code                  19 hrs 29 mins      █████████████████████████   100.00 % 
+VS Code                  18 hrs 54 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    19 hrs 29 mins      █████████████████████████   100.00 % 
+Linux                    18 hrs 54 mins      █████████████████████████   100.00 % 
 
 ```
 
@@ -64,5 +64,5 @@ PHP                      3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 16/02/2023 18:48:28 UTC
+ Last Updated on 17/02/2023 18:44:30 UTC
 <!--END_SECTION:waka-->
