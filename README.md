@@ -4,9 +4,9 @@
 [![Linkedin: oluis](https://img.shields.io/badge/-ooluis-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ooluis)](https://www.linkedin.com/in/ooluis/)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C896%20hrs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C899%20hrs%2053%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-301.4%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-332.8%20thousand%20lines%20of%20code-blue)
 
 **I'm an Early 🐤** 
 
@@ -35,17 +35,17 @@ Sunday                   15 commits          ██████░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-TypeScript               13 hrs 15 mins      █████████████████████░░░░   84.68 % 
-JavaScript               1 hr 17 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.23 % 
-Other                    47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.07 % 
-Bash                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.51 % 
-JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
+TypeScript               15 hrs 47 mins      ████████████████████░░░░░   80.82 % 
+Other                    1 hr 48 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.30 % 
+JavaScript               1 hr 36 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.27 % 
+Bash                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
+JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
 
 🔥 Editors: 
-VS Code                  15 hrs 39 mins      █████████████████████████   100.00 % 
+VS Code                  19 hrs 32 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    15 hrs 39 mins      █████████████████████████   100.00 % 
+Linux                    19 hrs 32 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -61,5 +61,5 @@ Vue                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 10/03/2023 18:41:54 UTC
+ Last Updated on 11/03/2023 18:40:07 UTC
 <!--END_SECTION:waka-->
