@@ -35,14 +35,13 @@ Sunday                   50 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-TypeScript               5 hrs 8 mins        █████████████████████████   98.88 % 
-Other                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  5 hrs 12 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    5 hrs 12 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -58,5 +57,5 @@ Vue                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 04/10/2023 18:41:20 UTC
+ Last Updated on 05/10/2023 18:40:53 UTC
 <!--END_SECTION:waka-->
