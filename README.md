@@ -4,7 +4,7 @@
 [![Linkedin: oluis](https://img.shields.io/badge/-ooluis-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ooluis)](https://www.linkedin.com/in/ooluis/)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C687%20hrs%2027%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C688%20hrs%2013%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-355.2%20thousand%20lines%20of%20code-blue)
 
@@ -35,16 +35,17 @@ Sunday                   56 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-TypeScript               3 hrs 45 mins       █████████████░░░░░░░░░░░░   51.10 % 
-Other                    2 hrs 18 mins       ████████░░░░░░░░░░░░░░░░░   31.21 % 
-YAML                     1 hr 11 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.07 % 
-Protocol Buffer          7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
+TypeScript               3 hrs 51 mins       █████████████░░░░░░░░░░░░   50.75 % 
+Other                    2 hrs 18 mins       ████████░░░░░░░░░░░░░░░░░   30.20 % 
+YAML                     1 hr 11 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.55 % 
+JavaScript               8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
+Protocol Buffer          7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
 
 🔥 Editors: 
-VS Code                  7 hrs 22 mins       █████████████████████████   100.00 % 
+VS Code                  7 hrs 37 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    7 hrs 22 mins       █████████████████████████   100.00 % 
+Linux                    7 hrs 37 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -60,5 +61,5 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 03/01/2024 18:39:57 UTC
+ Last Updated on 04/01/2024 18:41:00 UTC
 <!--END_SECTION:waka-->
