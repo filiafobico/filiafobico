@@ -4,7 +4,7 @@
 [![Linkedin: oluis](https://img.shields.io/badge/-ooluis-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ooluis)](https://www.linkedin.com/in/ooluis/)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C108%20hrs%2039%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C113%20hrs%2031%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-355.4%20thousand%20lines%20of%20code-blue)
 
@@ -35,17 +35,17 @@ Sunday                   58 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-TypeScript               6 hrs 9 mins        █████████████████░░░░░░░░   68.01 % 
-Markdown                 1 hr 23 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.45 % 
-Other                    54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.99 % 
-JSON                     34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.27 % 
-TSConfig                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+Markdown                 4 hrs 6 mins        ██████████████░░░░░░░░░░░   56.58 % 
+TypeScript               1 hr 58 mins        ███████░░░░░░░░░░░░░░░░░░   27.23 % 
+Other                    36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.40 % 
+JSON                     32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.36 % 
+INI                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
 
 🔥 Editors: 
-VS Code                  9 hrs 2 mins        █████████████████████████   100.00 % 
+VS Code                  7 hrs 16 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    9 hrs 2 mins        █████████████████████████   100.00 % 
+Linux                    7 hrs 16 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -61,5 +61,5 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 29/06/2024 18:40:44 UTC
+ Last Updated on 30/06/2024 18:41:32 UTC
 <!--END_SECTION:waka-->
