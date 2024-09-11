@@ -4,7 +4,7 @@
 [![Linkedin: oluis](https://img.shields.io/badge/-ooluis-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ooluis)](https://www.linkedin.com/in/ooluis/)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C311%20hrs%207%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C311%20hrs%209%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-355.4%20thousand%20lines%20of%20code-blue)
 
@@ -35,17 +35,17 @@ Sunday                   58 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-TypeScript               8 hrs 26 mins       ██████████████░░░░░░░░░░░   57.27 % 
-JSON                     1 hr 48 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.24 % 
-JavaScript               1 hr 42 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.55 % 
-Other                    53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.00 % 
-Bash                     49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
+TypeScript               5 hrs 26 mins       ██████████████░░░░░░░░░░░   54.00 % 
+JSON                     1 hr 45 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.39 % 
+JavaScript               1 hr 15 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.46 % 
+Other                    32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.45 % 
+Bash                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
 
 🔥 Editors: 
-VS Code                  14 hrs 43 mins      █████████████████████████   100.00 % 
+VS Code                  10 hrs 4 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    14 hrs 43 mins      █████████████████████████   100.00 % 
+Linux                    10 hrs 4 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -61,5 +61,5 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 10/09/2024 18:45:10 UTC
+ Last Updated on 11/09/2024 18:44:48 UTC
 <!--END_SECTION:waka-->
