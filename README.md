@@ -4,8 +4,6 @@
 [![Linkedin: oluis](https://img.shields.io/badge/-ooluis-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ooluis)](https://www.linkedin.com/in/ooluis/)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C470%20hrs%2017%20mins-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-357.9%20thousand%20lines%20of%20code-blue)
 
 **I Mostly Code in JavaScript** 
@@ -21,5 +19,5 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 08/01/2025 18:47:09 UTC
+ Last Updated on 09/01/2025 18:48:16 UTC
 <!--END_SECTION:waka-->
