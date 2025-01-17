@@ -4,7 +4,7 @@
 [![Linkedin: oluis](https://img.shields.io/badge/-ooluis-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ooluis)](https://www.linkedin.com/in/ooluis/)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C495%20hrs%2045%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C497%20hrs-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-360.2%20thousand%20lines%20of%20code-blue)
 
@@ -35,17 +35,17 @@ Sunday                   62 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-TypeScript               8 hrs 28 mins       ██████████░░░░░░░░░░░░░░░   40.51 % 
-JavaScript               6 hrs 15 mins       ███████░░░░░░░░░░░░░░░░░░   29.93 % 
-Other                    4 hrs 10 mins       █████░░░░░░░░░░░░░░░░░░░░   19.97 % 
-CSV                      55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 % 
-JSON                     38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.10 % 
+JavaScript               7 hrs 22 mins       ████████████░░░░░░░░░░░░░   46.10 % 
+Other                    4 hrs 10 mins       ███████░░░░░░░░░░░░░░░░░░   26.06 % 
+TypeScript               3 hrs 6 mins        █████░░░░░░░░░░░░░░░░░░░░   19.40 % 
+CSV                      59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.16 % 
+JSON                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
 
 🔥 Editors: 
-VS Code                  20 hrs 56 mins      █████████████████████████   100.00 % 
+VS Code                  16 hrs              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    20 hrs 56 mins      █████████████████████████   100.00 % 
+Linux                    16 hrs              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -61,5 +61,5 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 16/01/2025 18:45:22 UTC
+ Last Updated on 17/01/2025 18:44:57 UTC
 <!--END_SECTION:waka-->
