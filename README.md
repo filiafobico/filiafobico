@@ -4,7 +4,7 @@
 [![Linkedin: oluis](https://img.shields.io/badge/-ooluis-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ooluis)](https://www.linkedin.com/in/ooluis/)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C031%20hrs%206%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C025%20hrs%2042%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-330.4%20thousand%20lines%20of%20code-blue)
 
@@ -51,15 +51,15 @@ Linux                    25 hrs 20 mins      ███████████�
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               64 repos            ███████████████░░░░░░░░░░   58.18 % 
-JavaScript               17 repos            ████░░░░░░░░░░░░░░░░░░░░░   15.45 % 
-HTML                     6 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.45 % 
-Vue                      3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.73 % 
-Jupyter Notebook         1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
+TypeScript               65 repos            ███████████████░░░░░░░░░░   58.56 % 
+JavaScript               17 repos            ████░░░░░░░░░░░░░░░░░░░░░   15.32 % 
+HTML                     6 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
+Vue                      3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
+Jupyter Notebook         1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
 ```
 
 
 
 
- Last Updated on 12/08/2025 18:55:34 UTC
+ Last Updated on 13/08/2025 18:54:31 UTC
 <!--END_SECTION:waka-->
