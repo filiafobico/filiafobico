@@ -4,7 +4,49 @@
 [![Linkedin: oluis](https://img.shields.io/badge/-ooluis-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ooluis)](https://www.linkedin.com/in/ooluis/)
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-331.0%20thousand%20lines%20of%20code-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C300%20hrs%2038%20mins-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-331.2%20thousand%20lines%20of%20code-blue)
+
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                70 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.22 % 
+🌆 Daytime                161 commits         ███████░░░░░░░░░░░░░░░░░░   28.10 % 
+🌃 Evening                329 commits         ██████████████░░░░░░░░░░░   57.42 % 
+🌙 Night                  13 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   144 commits         ██████░░░░░░░░░░░░░░░░░░░   25.13 % 
+Tuesday                  41 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.16 % 
+Wednesday                61 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.65 % 
+Thursday                 38 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.63 % 
+Friday                   198 commits         █████████░░░░░░░░░░░░░░░░   34.55 % 
+Saturday                 47 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 % 
+Sunday                   44 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.68 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Sao_Paulo
+
+💬 Programming Languages: 
+TypeScript               13 hrs 4 mins       ██████████████░░░░░░░░░░░   56.17 % 
+Other                    3 hrs 12 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.79 % 
+YAML                     2 hrs 35 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.14 % 
+JSON                     1 hr 57 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.41 % 
+JavaScript               1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.81 % 
+
+🔥 Editors: 
+VS Code                  23 hrs 17 mins      █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Linux                    23 hrs 17 mins      █████████████████████████   100.00 % 
+```
 
 **I Mostly Code in TypeScript** 
 
@@ -19,5 +61,5 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 03/11/2025 18:49:44 UTC
+ Last Updated on 04/11/2025 18:52:57 UTC
 <!--END_SECTION:waka-->
