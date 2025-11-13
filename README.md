@@ -4,7 +4,7 @@
 [![Linkedin: oluis](https://img.shields.io/badge/-ooluis-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ooluis)](https://www.linkedin.com/in/ooluis/)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C328%20hrs%2044%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C331%20hrs%208%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-331.2%20thousand%20lines%20of%20code-blue)
 
@@ -35,17 +35,17 @@ Sunday                   44 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-TypeScript               14 hrs 55 mins      ████████████████░░░░░░░░░   62.14 % 
-Other                    4 hrs 9 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.31 % 
-JavaScript               2 hrs 26 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.18 % 
-JSON                     1 hr 16 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.28 % 
-Markdown                 22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.58 % 
+TypeScript               13 hrs 18 mins      ███████████████░░░░░░░░░░   60.22 % 
+Other                    3 hrs 14 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.69 % 
+JavaScript               2 hrs 26 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.06 % 
+JSON                     1 hr 15 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.69 % 
+Markdown                 1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
 
 🔥 Editors: 
-VS Code                  24 hrs 1 min        █████████████████████████   100.00 % 
+VS Code                  22 hrs 6 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    24 hrs 1 min        █████████████████████████   100.00 % 
+Linux                    22 hrs 6 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -61,5 +61,5 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 12/11/2025 18:50:59 UTC
+ Last Updated on 13/11/2025 18:52:45 UTC
 <!--END_SECTION:waka-->
