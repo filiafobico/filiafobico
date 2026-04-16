@@ -4,7 +4,7 @@
 [![Linkedin: oluis](https://img.shields.io/badge/-ooluis-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ooluis)](https://www.linkedin.com/in/ooluis/)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C711%20hrs%2016%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C719%20hrs%2051%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-334.79%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -35,17 +35,18 @@ Sunday                   44 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Go                       7 hrs 57 mins       ████████████░░░░░░░░░░░░░   48.82 % 
-Markdown                 3 hrs 40 mins       ██████░░░░░░░░░░░░░░░░░░░   22.57 % 
-YAML                     2 hrs 14 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.79 % 
-Other                    1 hr 16 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 % 
-Makefile                 42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
+Go                       13 hrs 48 mins      ████████████████░░░░░░░░░   63.18 % 
+Markdown                 3 hrs 41 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.87 % 
+YAML                     1 hr 27 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.71 % 
+Other                    1 hr 25 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.53 % 
+Makefile                 48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 % 
 
 🔥 Editors: 
-VS Code                  16 hrs 18 mins      █████████████████████████   100.00 % 
+VS Code                  21 hrs 29 mins      █████████████████████████   98.32 % 
+Unknown Editor           22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
 
 💻 Operating System: 
-Linux                    16 hrs 18 mins      █████████████████████████   100.00 % 
+Linux                    21 hrs 51 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -61,5 +62,5 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 15/04/2026 19:50:58 UTC
+ Last Updated on 16/04/2026 19:47:16 UTC
 <!--END_SECTION:waka-->
