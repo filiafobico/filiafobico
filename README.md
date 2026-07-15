@@ -4,7 +4,7 @@
 [![Linkedin: oluis](https://img.shields.io/badge/-ooluis-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ooluis)](https://www.linkedin.com/in/ooluis/)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C887%20hrs%204%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C891%20hrs%2025%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-336.17%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -35,13 +35,18 @@ Sunday                   44 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+YAML                     2 hrs 11 mins       █████████████░░░░░░░░░░░░   50.50 % 
+Python                   1 hr 10 mins        ███████░░░░░░░░░░░░░░░░░░   26.94 % 
+Other                    27 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.55 % 
+JSON                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.18 % 
+Go                       10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
 
 🔥 Editors: 
-Claude Code              0 secs              █████████████████████████   100.00 % 
+VS Code                  2 hrs 37 mins       ███████████████░░░░░░░░░░   60.44 % 
+Claude Code              1 hr 43 mins        ██████████░░░░░░░░░░░░░░░   39.56 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    4 hrs 20 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -57,5 +62,5 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 14/07/2026 19:53:29 UTC
+ Last Updated on 15/07/2026 19:47:50 UTC
 <!--END_SECTION:waka-->
