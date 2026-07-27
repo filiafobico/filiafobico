@@ -4,7 +4,9 @@
 [![Linkedin: oluis](https://img.shields.io/badge/-ooluis-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ooluis)](https://www.linkedin.com/in/ooluis/)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C953%20hrs%2041%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C443%20hrs%2035%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-151%20hrs%2020%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-336.17%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -49,6 +51,31 @@ VS Code                  9 hrs 6 mins        ███████░░░░�
 Linux                    32 hrs 29 mins      █████████████████████████   100.00 % 
 ```
 
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 25 hrs 47 mins (79.38%)
+
+✍️ 15,065 lines written by AI, 140 lines written by hand (99.08% AI-written)
+
+🔤 301,798,447 Input Tokens, 1,619,950 Output Tokens
+
+💵 $1088.18 Estimated AI Cost This Week
+
+🧠 30 AI Sessions, 121 AI Prompts
+
+Opus                     8,913 lines         ██████████████░░░░░░░░░░░   54.01 % 
+Haiku                    7,204 lines         ███████████░░░░░░░░░░░░░░   43.66 % 
+Sonnet                   385 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
+Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 99.08% of written lines came from AI
+📚 Verbose Prompter — average 3,742 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 0.97% of changed lines were hand-edited
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -62,5 +89,5 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 26/07/2026 19:46:33 UTC
+ Last Updated on 27/07/2026 20:07:06 UTC
 <!--END_SECTION:waka-->
