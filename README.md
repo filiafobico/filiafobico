@@ -4,9 +4,9 @@
 [![Linkedin: oluis](https://img.shields.io/badge/-ooluis-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ooluis)](https://www.linkedin.com/in/ooluis/)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C533%20hrs%209%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C540%20hrs%2042%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-214%20hrs%2025%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-221%20hrs%2045%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-336.17%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -37,43 +37,43 @@ Sunday                   44 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Go                       11 hrs 19 mins      ███████████░░░░░░░░░░░░░░   45.73 % 
-YAML                     6 hrs 8 mins        ██████░░░░░░░░░░░░░░░░░░░   24.82 % 
-Markdown                 5 hrs 43 mins       ██████░░░░░░░░░░░░░░░░░░░   23.13 % 
-JavaScript               29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.02 % 
-Text                     23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
+Go                       12 hrs 30 mins      ███████████░░░░░░░░░░░░░░   45.46 % 
+Markdown                 6 hrs 51 mins       ██████░░░░░░░░░░░░░░░░░░░   24.90 % 
+YAML                     6 hrs 36 mins       ██████░░░░░░░░░░░░░░░░░░░   24.01 % 
+JavaScript               29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
+Text                     21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
 
 🔥 Editors: 
-VS Code                  14 hrs 7 mins       ██████████████░░░░░░░░░░░   57.03 % 
-Claude Code              10 hrs 38 mins      ███████████░░░░░░░░░░░░░░   42.97 % 
+Claude Code              14 hrs 44 mins      █████████████░░░░░░░░░░░░   53.58 % 
+VS Code                  12 hrs 46 mins      ████████████░░░░░░░░░░░░░   46.42 % 
 
 💻 Operating System: 
-Linux                    24 hrs 45 mins      █████████████████████████   100.00 % 
+Linux                    27 hrs 31 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 13 hrs 28 mins (54.4%)
+⏱ AI Coding Time: 17 hrs 11 mins (62.44%)
 
-✍️ 3,919 lines written by AI, 55 lines written by hand (98.62% AI-written)
+✍️ 4,856 lines written by AI, 52 lines written by hand (98.94% AI-written)
 
-🔤 4,034,481 Input Tokens, 737,493 Output Tokens
+🔤 4,535,201 Input Tokens, 921,682 Output Tokens
 
-💵 $56.41 Estimated AI Cost This Week
+💵 $84.77 Estimated AI Cost This Week
 
-🧠 23 AI Sessions, 88 AI Prompts
+🧠 21 AI Sessions, 98 AI Prompts
 
-Sonnet                   2,934 lines         ██████████████████░░░░░░░   73.24 % 
-Haiku                    1,072 lines         ███████░░░░░░░░░░░░░░░░░░   26.76 % 
+Sonnet                   4,598 lines         █████████████████████░░░░   82.73 % 
+Haiku                    949 lines           ████░░░░░░░░░░░░░░░░░░░░░   17.07 % 
+Opus                     11 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.62% of written lines came from AI
-📄 Detailed Prompter — average 1,104 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 12.26% of changed lines were hand-edited
+🤖 AI-Driven — 98.94% of written lines came from AI
+📄 Detailed Prompter — average 1,013 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 1.77% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -89,5 +89,5 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 21/08/2026 19:08:51 UTC
+ Last Updated on 22/08/2026 19:00:58 UTC
 <!--END_SECTION:waka-->
