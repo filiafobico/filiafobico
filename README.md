@@ -79,15 +79,15 @@ Claude-Code              0 lines             ░░░░░░░░░░░�
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               54 repos            █████████████░░░░░░░░░░░░   51.43 % 
-JavaScript               18 repos            ████░░░░░░░░░░░░░░░░░░░░░   17.14 % 
-HTML                     6 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
-Vue                      3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
-Jupyter Notebook         1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
+TypeScript               54 repos            █████████████░░░░░░░░░░░░   50.94 % 
+JavaScript               18 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.98 % 
+HTML                     7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.60 % 
+Vue                      3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.83 % 
+Jupyter Notebook         1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
 ```
 
 
 
 
- Last Updated on 24/08/2026 19:12:22 UTC
+ Last Updated on 25/08/2026 19:11:23 UTC
 <!--END_SECTION:waka-->
