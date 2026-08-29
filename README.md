@@ -4,9 +4,9 @@
 [![Linkedin: oluis](https://img.shields.io/badge/-ooluis-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ooluis)](https://www.linkedin.com/in/ooluis/)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C553%20hrs%2019%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C560%20hrs%209%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-229%20hrs%2028%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-235%20hrs%2033%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-336.17%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -37,43 +37,43 @@ Sunday                   44 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Markdown                 10 hrs 5 mins       ██████████░░░░░░░░░░░░░░░   39.78 % 
-Go                       6 hrs 28 mins       ██████░░░░░░░░░░░░░░░░░░░   25.48 % 
-YAML                     3 hrs 48 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.01 % 
-JavaScript               2 hrs 3 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.14 % 
-Bash                     1 hr 33 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.14 % 
+Markdown                 12 hrs 39 mins      ████████████░░░░░░░░░░░░░   46.32 % 
+Go                       4 hrs 27 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.33 % 
+YAML                     2 hrs 44 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.03 % 
+JavaScript               2 hrs 29 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+Bash                     2 hrs 15 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.27 % 
 
 🔥 Editors: 
-Claude Code              14 hrs 55 mins      ███████████████░░░░░░░░░░   58.78 % 
-VS Code                  10 hrs 27 mins      ██████████░░░░░░░░░░░░░░░   41.22 % 
+Claude Code              16 hrs 55 mins      ███████████████░░░░░░░░░░   61.94 % 
+VS Code                  10 hrs 24 mins      ██████████░░░░░░░░░░░░░░░   38.06 % 
 
 💻 Operating System: 
-Linux                    25 hrs 22 mins      █████████████████████████   100.00 % 
+Linux                    27 hrs 20 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 18 hrs 14 mins (71.89%)
+⏱ AI Coding Time: 21 hrs 8 mins (77.32%)
 
-✍️ 3,395 lines written by AI, 111 lines written by hand (96.83% AI-written)
+✍️ 5,553 lines written by AI, 128 lines written by hand (97.75% AI-written)
 
-🔤 3,781,890 Input Tokens, 826,098 Output Tokens
+🔤 3,726,931 Input Tokens, 1,033,562 Output Tokens
 
-💵 $82.19 Estimated AI Cost This Week
+💵 $190.60 Estimated AI Cost This Week
 
-🧠 17 AI Sessions, 68 AI Prompts
+🧠 18 AI Sessions, 85 AI Prompts
 
-Sonnet                   3,733 lines         ███████████████████████░░   92.04 % 
-Opus                     300 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   07.40 % 
-Haiku                    23 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
+Opus                     3,866 lines         ███████████████░░░░░░░░░░   59.50 % 
+Sonnet                   2,356 lines         █████████░░░░░░░░░░░░░░░░   36.26 % 
+Haiku                    276 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 96.83% of written lines came from AI
-📄 Detailed Prompter — average 1,148 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 4.41% of changed lines were hand-edited
+🤖 AI-Driven — 97.75% of written lines came from AI
+📚 Verbose Prompter — average 2,059 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 3.49% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -89,5 +89,5 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 28/08/2026 02:19:16 UTC
+ Last Updated on 29/08/2026 01:53:24 UTC
 <!--END_SECTION:waka-->
