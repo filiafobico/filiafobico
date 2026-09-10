@@ -4,9 +4,9 @@
 [![Linkedin: oluis](https://img.shields.io/badge/-ooluis-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ooluis)](https://www.linkedin.com/in/ooluis/)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C581%20hrs%2040%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C586%20hrs%2013%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-248%20hrs%2017%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-252%20hrs%2047%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-336.17%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -37,42 +37,43 @@ Sunday                   44 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Go                       3 hrs 6 mins        ██████░░░░░░░░░░░░░░░░░░░   25.49 % 
-Markdown                 2 hrs 59 mins       ██████░░░░░░░░░░░░░░░░░░░   24.61 % 
-JSON                     2 hrs 36 mins       █████░░░░░░░░░░░░░░░░░░░░   21.41 % 
-JavaScript               1 hr 26 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.82 % 
-Other                    1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.33 % 
+Go                       4 hrs 38 mins       █████████░░░░░░░░░░░░░░░░   35.72 % 
+Markdown                 4 hrs 1 min         ████████░░░░░░░░░░░░░░░░░   30.90 % 
+JavaScript               57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.31 % 
+Other                    55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.13 % 
+SQL                      53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
 
 🔥 Editors: 
-VS Code                  9 hrs 28 mins       ███████████████████░░░░░░   77.76 % 
-Claude Code              2 hrs 42 mins       ██████░░░░░░░░░░░░░░░░░░░   22.24 % 
+VS Code                  7 hrs 36 mins       ███████████████░░░░░░░░░░   58.51 % 
+Claude Code              5 hrs 23 mins       ██████████░░░░░░░░░░░░░░░   41.49 % 
 
 💻 Operating System: 
-Linux                    12 hrs 11 mins      █████████████████████████   100.00 % 
+Linux                    13 hrs              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 23 mins (35.97%)
+⏱ AI Coding Time: 6 hrs 47 mins (52.12%)
 
-✍️ 5 lines written by AI, 5,414 lines written by hand (0.09% AI-written)
+✍️ 3,931 lines written by AI, 5,411 lines written by hand (42.08% AI-written)
 
-🔤 793,739 Input Tokens, 143,913 Output Tokens
+🔤 2,486,529 Input Tokens, 565,615 Output Tokens
 
-💵 $88.82 Estimated AI Cost This Week
+💵 $151.44 Estimated AI Cost This Week
 
-🧠 6 AI Sessions, 16 AI Prompts
+🧠 5 AI Sessions, 20 AI Prompts
 
-Sonnet                   184 lines           █████████████░░░░░░░░░░░░   53.49 % 
-Opus                     137 lines           ██████████░░░░░░░░░░░░░░░   39.83 % 
-Haiku                    23 lines            ██░░░░░░░░░░░░░░░░░░░░░░░   06.69 % 
+Sonnet                   4,219 lines         ████████████████████████░   96.35 % 
+Opus                     137 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.13 % 
+Haiku                    23 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
+Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.09% of written lines came from AI
-📚 Verbose Prompter — average 2,242 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🔍 Hands-On Reviewer — 99.96% of changed lines were hand-edited
+⚖️ Balanced with AI — 42.08% of written lines came from AI
+📚 Verbose Prompter — average 5,057 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🔍 Hands-On Reviewer — 73.78% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -88,5 +89,5 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 09/09/2026 21:07:54 UTC
+ Last Updated on 10/09/2026 21:08:42 UTC
 <!--END_SECTION:waka-->
