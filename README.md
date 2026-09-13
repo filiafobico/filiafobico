@@ -4,9 +4,9 @@
 [![Linkedin: oluis](https://img.shields.io/badge/-ooluis-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ooluis)](https://www.linkedin.com/in/ooluis/)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C589%20hrs%2050%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C594%20hrs%2041%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-255%20hrs%2025%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-260%20hrs%2011%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-336.17%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -37,57 +37,57 @@ Sunday                   44 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Go                       5 hrs 23 mins       ████████████░░░░░░░░░░░░░   47.63 % 
-SQL                      3 hrs               ███████░░░░░░░░░░░░░░░░░░   26.57 % 
-Markdown                 2 hrs 8 mins        █████░░░░░░░░░░░░░░░░░░░░   18.98 % 
-YAML                     43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.41 % 
-Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+Go                       6 hrs 55 mins       █████████████░░░░░░░░░░░░   53.01 % 
+Markdown                 3 hrs               ██████░░░░░░░░░░░░░░░░░░░   23.08 % 
+SQL                      2 hrs 54 mins       ██████░░░░░░░░░░░░░░░░░░░   22.24 % 
+Bash                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
+Text                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
 
 🔥 Editors: 
-Claude Code              6 hrs 59 mins       ███████████████░░░░░░░░░░   61.89 % 
-VS Code                  4 hrs 18 mins       ██████████░░░░░░░░░░░░░░░   38.11 % 
+Claude Code              10 hrs 43 mins      █████████████████████░░░░   82.23 % 
+VS Code                  2 hrs 18 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.77 % 
 
 💻 Operating System: 
-Linux                    11 hrs 18 mins      █████████████████████████   100.00 % 
+Linux                    13 hrs 2 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 11 mins (63.63%)
+⏱ AI Coding Time: 11 hrs 53 mins (91.18%)
 
-✍️ 4,022 lines written by AI, 190 lines written by hand (95.49% AI-written)
+✍️ 4,451 lines written by AI, 3 lines written by hand (99.93% AI-written)
 
-🔤 3,125,359 Input Tokens, 587,489 Output Tokens
+🔤 4,126,769 Input Tokens, 745,426 Output Tokens
 
-💵 $155.47 Estimated AI Cost This Week
+💵 $168.97 Estimated AI Cost This Week
 
-🧠 7 AI Sessions, 23 AI Prompts
+🧠 8 AI Sessions, 34 AI Prompts
 
-Sonnet                   4,327 lines         ████████████████████████░   96.43 % 
-Opus                     137 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.05 % 
-Haiku                    23 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
+Sonnet                   4,841 lines         ████████████████████████░   96.80 % 
+Opus                     137 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
+Haiku                    23 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 95.49% of written lines came from AI
-📚 Verbose Prompter — average 4,231 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 4.49% of changed lines were hand-edited
+🤖 AI-Driven — 99.93% of written lines came from AI
+📚 Verbose Prompter — average 2,934 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 0.13% of changed lines were hand-edited
 ```
 
-**I Mostly Code in TypeScript** 
+**I Mostly Code in JavaScript** 
 
 ```text
-TypeScript               54 repos            █████████████░░░░░░░░░░░░   50.94 % 
-JavaScript               19 repos            ████░░░░░░░░░░░░░░░░░░░░░   17.92 % 
-HTML                     6 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.66 % 
-Vue                      3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.83 % 
-Jupyter Notebook         1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
+JavaScript               17 repos            ██████████░░░░░░░░░░░░░░░   41.46 % 
+TypeScript               6 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.63 % 
+HTML                     5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.20 % 
+Vue                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.32 % 
+Jupyter Notebook         1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
 ```
 
 
 
 
- Last Updated on 12/09/2026 20:53:02 UTC
+ Last Updated on 13/09/2026 21:05:44 UTC
 <!--END_SECTION:waka-->
