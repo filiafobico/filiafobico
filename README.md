@@ -76,18 +76,18 @@ Claude-Code              0 lines             ░░░░░░░░░░░�
 🚀 High AI Trust — 0.13% of changed lines were hand-edited
 ```
 
-**I Mostly Code in JavaScript** 
+**I Mostly Code in TypeScript** 
 
 ```text
-JavaScript               17 repos            ██████████░░░░░░░░░░░░░░░   41.46 % 
-TypeScript               6 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.63 % 
-HTML                     5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.20 % 
-Vue                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.32 % 
-Jupyter Notebook         1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
+TypeScript               53 repos            █████████████░░░░░░░░░░░░   50.48 % 
+JavaScript               19 repos            █████░░░░░░░░░░░░░░░░░░░░   18.10 % 
+HTML                     6 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
+Vue                      3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
+Jupyter Notebook         1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
 ```
 
 
 
 
- Last Updated on 13/09/2026 21:05:44 UTC
+ Last Updated on 14/09/2026 22:00:09 UTC
 <!--END_SECTION:waka-->
