@@ -4,7 +4,7 @@
 [![Linkedin: oluis](https://img.shields.io/badge/-ooluis-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ooluis)](https://www.linkedin.com/in/ooluis/)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C635%20hrs%208%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C635%20hrs%2011%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-287%20hrs%2010%20mins-blue?style=flat)
 
@@ -37,43 +37,43 @@ Sunday                   44 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Go                       9 hrs 40 mins       █████████░░░░░░░░░░░░░░░░   37.82 % 
-Markdown                 7 hrs 13 mins       ███████░░░░░░░░░░░░░░░░░░   28.21 % 
-YAML                     3 hrs 35 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.05 % 
-Other                    1 hr 49 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
-Bash                     1 hr 20 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.25 % 
+Go                       8 hrs 11 mins       ██████████░░░░░░░░░░░░░░░   41.21 % 
+Markdown                 5 hrs 10 mins       ███████░░░░░░░░░░░░░░░░░░   26.03 % 
+YAML                     2 hrs 6 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.59 % 
+Other                    1 hr 47 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.99 % 
+JSON                     1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.58 % 
 
 🔥 Editors: 
-Claude Code              13 hrs 51 mins      ██████████████░░░░░░░░░░░   54.20 % 
-VS Code                  11 hrs 42 mins      ███████████░░░░░░░░░░░░░░   45.80 % 
+Claude Code              10 hrs 56 mins      ██████████████░░░░░░░░░░░   55.03 % 
+VS Code                  8 hrs 56 mins       ███████████░░░░░░░░░░░░░░   44.97 % 
 
 💻 Operating System: 
-Linux                    25 hrs 34 mins      █████████████████████████   100.00 % 
+Linux                    19 hrs 52 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 15 hrs 26 mins (60.35%)
+⏱ AI Coding Time: 11 hrs 38 mins (58.55%)
 
-✍️ 2,770 lines written by AI, 53 lines written by hand (98.12% AI-written)
+✍️ 1,771 lines written by AI, 53 lines written by hand (97.09% AI-written)
 
-🔤 3,501,206 Input Tokens, 720,208 Output Tokens
+🔤 2,367,444 Input Tokens, 421,280 Output Tokens
 
-💵 $90.53 Estimated AI Cost This Week
+💵 $48.42 Estimated AI Cost This Week
 
-🧠 16 AI Sessions, 121 AI Prompts
+🧠 12 AI Sessions, 76 AI Prompts
 
-Sonnet                   3,129 lines         ███████████████████████░░   93.57 % 
-Opus                     215 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   06.43 % 
+Sonnet                   2,147 lines         █████████████████████████   100.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.12% of written lines came from AI
-📄 Detailed Prompter — average 1,249 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
-🚀 High AI Trust — 2.19% of changed lines were hand-edited
+🤖 AI-Driven — 97.09% of written lines came from AI
+📚 Verbose Prompter — average 1,657 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 3.33% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -89,5 +89,5 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 26/09/2026 21:26:50 UTC
+ Last Updated on 27/09/2026 21:34:07 UTC
 <!--END_SECTION:waka-->
