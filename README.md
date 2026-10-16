@@ -37,24 +37,24 @@ Sunday                   44 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Go                       1 hr 51 mins        ████████████░░░░░░░░░░░░░   46.45 % 
-Markdown                 1 hr 16 mins        ████████░░░░░░░░░░░░░░░░░   32.13 % 
-Elixir                   31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.32 % 
-Bash                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
-Makefile                 4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
+Go                       1 hr 50 mins        █████████████░░░░░░░░░░░░   52.81 % 
+Markdown                 1 hr 16 mins        █████████░░░░░░░░░░░░░░░░   36.57 % 
+Bash                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.42 % 
+Makefile                 4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.29 % 
+Elixir                   3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 31 mins       ██████████████████████░░░   88.27 % 
-Claude Code              28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.73 % 
+VS Code                  3 hrs 2 mins        ██████████████████████░░░   86.66 % 
+Claude Code              28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.34 % 
 
 💻 Operating System: 
-Linux                    3 hrs 59 mins       █████████████████████████   100.00 % 
+Linux                    3 hrs 30 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 33 mins (13.86%)
+⏱ AI Coding Time: 33 mins (15.77%)
 
 ✍️ 2 lines written by AI, 3 lines written by hand (40.0% AI-written)
 
@@ -86,5 +86,5 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 15/10/2026 21:41:55 UTC
+ Last Updated on 16/10/2026 21:37:34 UTC
 <!--END_SECTION:waka-->
