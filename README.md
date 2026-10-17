@@ -37,40 +37,40 @@ Sunday                   44 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Go                       1 hr 50 mins        █████████████░░░░░░░░░░░░   52.81 % 
-Markdown                 1 hr 16 mins        █████████░░░░░░░░░░░░░░░░   36.57 % 
-Bash                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.42 % 
-Makefile                 4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.29 % 
-Elixir                   3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
+Markdown                 1 hr 15 mins        ██████████████░░░░░░░░░░░   56.83 % 
+Go                       46 mins             █████████░░░░░░░░░░░░░░░░   34.89 % 
+Makefile                 4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
+Elixir                   3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.36 % 
+JavaScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 2 mins        ██████████████████████░░░   86.66 % 
-Claude Code              28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.34 % 
+VS Code                  1 hr 44 mins        ████████████████████░░░░░   78.97 % 
+Claude Code              27 mins             █████░░░░░░░░░░░░░░░░░░░░   21.03 % 
 
 💻 Operating System: 
-Linux                    3 hrs 30 mins       █████████████████████████   100.00 % 
+Linux                    2 hrs 12 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 33 mins (15.77%)
+⏱ AI Coding Time: 31 mins (24.13%)
 
 ✍️ 2 lines written by AI, 3 lines written by hand (40.0% AI-written)
 
-🔤 405,911 Input Tokens, 31,722 Output Tokens
+🔤 372,212 Input Tokens, 30,647 Output Tokens
 
-💵 $2.41 Estimated AI Cost This Week
+💵 $2.30 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 9 AI Prompts
+🧠 2 AI Sessions, 8 AI Prompts
 
 Sonnet                   4 lines             █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 ⚖️ Balanced with AI — 40.0% of written lines came from AI
-📝 Concise Prompter — average 171 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🔍 Hands-On Reviewer — 63.64% of changed lines were hand-edited
+📝 Concise Prompter — average 165 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🔍 Hands-On Reviewer — 60.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -86,5 +86,5 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 16/10/2026 21:37:34 UTC
+ Last Updated on 17/10/2026 20:53:31 UTC
 <!--END_SECTION:waka-->
